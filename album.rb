@@ -30,7 +30,7 @@ class Album
 end   
 
 
-backstreet = Album.new 
+#backstreet = Album.new 
 pitch_perfect = Album.new 
 
 puts Album.count
